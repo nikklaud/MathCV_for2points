@@ -1,0 +1,11 @@
+Train pairs: 84 Validation pairs: 24
+Image shape: torch.Size([3, 96, 96]) Mask shape: torch.Size([1, 96, 96]) Mask values: tensor([0., 1.])
+Epoch 1/5: loss=0.5098
+Epoch 2/5: loss=0.1786
+Epoch 3/5: loss=0.1032
+Epoch 4/5: loss=0.0814
+Epoch 5/5: loss=0.0610
+Validation IoU: 0.8089, Dice: 0.8944
+Threshold 0.3: IoU=0.7598, Dice=0.8635
+Threshold 0.5: IoU=0.7840, Dice=0.8789
+Threshold 0.7: IoU=0.8117, Dice=0.8961

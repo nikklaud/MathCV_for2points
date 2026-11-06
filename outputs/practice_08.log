@@ -1,0 +1,2 @@
+Dilation output shapes: torch.Size([1, 1, 200, 200]) torch.Size([1, 1, 200, 200])
+Calculated output: 32 32 Program output: torch.Size([1, 1, 32, 32])

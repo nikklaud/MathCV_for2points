@@ -1,0 +1,14 @@
+Classes: ['circle', 'square', 'triangle']
+circle train 110 test 36
+square train 110 test 36
+triangle train 110 test 36
+Epoch 1/5: loss=1.1081, val_accuracy=0.3485
+Epoch 2/5: loss=1.0726, val_accuracy=0.5606
+Epoch 3/5: loss=0.9888, val_accuracy=0.5909
+Epoch 4/5: loss=0.8989, val_accuracy=0.5606
+Epoch 5/5: loss=0.8029, val_accuracy=0.6061
+Test accuracy: 0.5462962962962963
+Confusion matrix:
+ [[27  3  6]
+ [29  6  1]
+ [10  0 26]]

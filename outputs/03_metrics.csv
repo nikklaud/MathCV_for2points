@@ -1,0 +1,13 @@
+Noise,Filter,MSE,PSNR
+Salt pepper,Median 5x5,108.17806,27.789412
+Gaussian noise,Gaussian 0.8,109.50292,27.736547
+Gaussian noise,Gaussian 1.5,140.85287,26.643147
+Gaussian noise,Median 5x5,141.06033,26.636755
+Gaussian noise,Box 5x5,160.681,26.071157
+Salt pepper,Gaussian 1.5,209.92116,24.910242
+Salt pepper,Box 5x5,233.05856,24.456154
+Gaussian noise,Gaussian 3.0,258.89374,23.999588
+Salt pepper,Gaussian 0.8,271.29135,23.796444
+Salt pepper,Gaussian 3.0,300.8452,23.347374
+Gaussian noise,Input,445.74817,21.639908
+Salt pepper,Input,1534.1467,16.272135

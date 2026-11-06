@@ -1,0 +1,11 @@
+camera: uint8 0 255 512 512
+pixel (100, 70): 207
+Gray absolute difference: 1 0.4492950439453125
+camera mean/std: 129.06072616577148 73.64484655630552
+coffee mean/std: 103.6516125 58.115493318476126
+out(); plt.savefig(OUT / "01_channels.png", dpi=150); plt.show()
+camera: uint8 0 255 512 512
+pixel (100, 70): 207
+Gray absolute difference: 1 0.4492950439453125
+camera mean/std: 129.06072616577148 73.64484655630552
+coffee mean/std: 103.6516125 58.115493318476126
